@@ -1,7 +1,7 @@
-### Request this and then try to commit a change to github
+### Request this and then try to forge pull
 GET http://haltalk.herokuapp.com/
 Accept: application/hal+json
 
-### Request this and then try to commit a change to github
+### Request this and then try to forge pull
 GET http://haltalk.herokuapp.com/
 Accept: application/json
